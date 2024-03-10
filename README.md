@@ -8,9 +8,10 @@
 
 
 
-![Capture d'écran 1](C:\Users\USER\Desktop\vocale flutter\img\Capture.png)
-![Capture d'écran 2](C:\Users\USER\Desktop\vocale flutter\img\Capture2.png)
-![Capture d'écran 3](C:\Users\USER\Desktop\vocale flutter\img\Capture3.png)
+![Capture d'écran 1](img/Capture.png)
+![Capture d'écran 2](img/Capture2.png)
+![Capture d'écran 3](img/Capture3.png)
+
 
 
 # audio
