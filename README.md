@@ -1,17 +1,4 @@
-
-
-
-
-
-
-
-
-
-
-![Capture d'écran 1](img/Capture.png)
-![Capture d'écran 2](img/Capture2.png)
-![Capture d'écran 3](img/Capture3.png)
-
+chat vocale avec flutter et sauvgarder le vocale au backend ( speech to text )
 
 
 # audio
